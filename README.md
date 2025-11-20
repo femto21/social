@@ -1,2 +1,2 @@
 # social
-sample
+social app
